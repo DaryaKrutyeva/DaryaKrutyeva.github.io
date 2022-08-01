@@ -1,0 +1,53 @@
+body {
+    background-color: #83c5be;
+    font-family: 'Raleway', sans-serif;
+    
+    
+    
+  }
+
+.navbar  {
+    background-color: #ffddd2;
+    font-family: 'Raleway', sans-serif;
+  box-shadow: 0px 5px 0px #edf6f9;
+
+}
+
+.nav-item{
+  position: relative;
+}
+.nav-item a:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: #aaa;
+  height: 1px;
+
+}
+.nav-item a:hover:after {
+  width: 100%;
+
+}
+
+
+
+.btn  {
+  align-content: right;
+  background-color: #edf6f9;
+  border-color: #006d77;
+}
+#wrapper{
+    padding-right: 1%;
+    float:right;
+      bottom:0;
+      right:0;
+      clear:right
+    
+  }
+  
+ 

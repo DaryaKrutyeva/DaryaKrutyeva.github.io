@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "animejs": "^3.2.1",
+    "bootstrap": "^5.2.0-beta1",
+    "bootstrap-icons": "^1.8.3",
+    "letterizejs": "^2.0.1",
+    "node": "^18.5.0",
+    "webkit": "^0.0.0"
+  }
+}

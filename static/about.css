@@ -1,0 +1,23 @@
+.container-md{
+    background-color: #edf6f9;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+  }
+.container-sm{
+    background-color: #e29578;
+    padding: 10px;
+    border-radius: 50px;
+
+
+}  
+
+
+.lead {
+    padding: 10px;
+}
+
+.btn{
+    background-color: #006d77;
+    color:#ffddd2
+}

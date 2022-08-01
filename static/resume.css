@@ -1,0 +1,38 @@
+.btn  {
+    align-content: right;
+    background-color: #edf6f9;
+    color: #e29578;
+    border-color: #006d77;
+  }
+
+
+
+  .accordion-item {
+
+    background-color: #edf6f9;
+    border-width: thin;
+
+
+  }
+
+
+  .accordion-button{
+    background-color: #006d77;
+    border-width: thick;
+
+    color: white;
+    
+  }
+.accordion-header{
+    background-color: #006d77;
+    color: white;
+    border-width: thick;
+    border-color: #006d77;
+}
+.accordion-button:not(.collapsed) {
+    color: #006d77;
+    background-color: #edf6f9;
+    border-width: thick;
+    border-color: #006d77;
+
+}
