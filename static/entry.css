@@ -66,11 +66,21 @@ button  {
   }
 }
 
-.position-absolute{
+.card{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 50px;
-  font-size: 40px;
   background-color: #b8dedc;
+  display: inline-block;
+    width: 90%;
+    height: 400px;
+    margin: 1%;
+}
+.container-xxl {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .ml2 {
