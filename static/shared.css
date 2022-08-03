@@ -1,6 +1,7 @@
 body {
     background-color: #83c5be;
     font-family: 'Raleway', sans-serif;
+    overflow: hidden;
     
     
     
@@ -10,6 +11,7 @@ body {
     background-color: #ffddd2;
     font-family: 'Raleway', sans-serif;
   box-shadow: 0px 5px 0px #edf6f9;
+  overflow: hidden;
 
 }
 
