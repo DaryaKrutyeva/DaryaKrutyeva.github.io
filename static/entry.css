@@ -1,6 +1,5 @@
 body {
     background-color: #83c5be;
-    overflow: hidden;
   }
 
   
@@ -66,20 +65,21 @@ button  {
   }
 }
 
-.card{
+.position-absolute{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 50px;
   background-color: #b8dedc;
   display: inline-block;
-    width: 90%;
-    height: 400px;
+  
+    width: 50%;
+  
     margin: 1%;
 }
 .container-xxl {
   display: flex;
   flex-wrap: wrap;
-  max-width: 1000px;
-  width: 100%;
+  max-width: 600px;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -90,6 +90,10 @@ button  {
  
   width: 120%;
   height: 50%;
+}
+.parent{
+  position: relative;
+
 }
 
 .ml2 .letter {
